@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "scripts": {
+      "start": "node --modules proxy-server.js"
+  }
+}

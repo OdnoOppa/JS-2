@@ -1,0 +1,13 @@
+[
+    {"id": 1, "name": "dell", "category": "computer"},
+    {"id": 2, "name": "acer", "category": "computer"},
+    {"id": 3, "name": "soda", "category": "drinks"},
+    {"id": 4, "name": "water", "category": "drinks"},
+    {"id": 5, "name": "Tablet", "category": "computer"},
+    {"id": 6, "name": "apple juice", "category": "drinks"},
+    {"id": 7, "name": "thinkpad", "category": "computer"},
+    {"id": 8, "name": "Water", "category": "drinks"},
+    {"id": 9, "name": "hp", "category": "computer"},
+    {"id": 11, "name": "airag", "category": "drinks"},
+    {"id": 10, "name": "iced coffee", "category": "drinks"}
+]
